@@ -1,5 +1,5 @@
 # MovieRecommendationSystem
-This Project is about  building simple and content based movie recommendation system.
+This Project is about  building simple and content based movie recommendation engine.
 
 SIMPLE RECOMMENDATION SYSTEM 
   In this recommendation system , top ten movies will be predicted based on votes and ratings given to that movie.Here popularity score is calculated for every movie based on 
